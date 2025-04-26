@@ -3,21 +3,6 @@
 A complete full-stack **Car Rental web application** with **Customer** and **Admin** portals.  
 Customers can browse and book cars, while admins can manage fleet inventory, bookings, and customer records.
 
----
-
-## 📚 Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
-  - [Customer View](#customer-view)
-  - [Admin View](#admin-view)
-- [Installation](#installation)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## ✨ Features
 
 ### Customer

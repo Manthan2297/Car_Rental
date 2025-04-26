@@ -98,10 +98,8 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Manthan2297/Car_Rental.git
    ```
-
 2. **Install dependencies**
    ```bash
    npm install

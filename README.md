@@ -55,9 +55,13 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 **Login Page**
 
 ![Product Details](https://github.com/user-attachments/assets/7c4b5ed0-c0ad-4aec-885e-4a68bbbad675)
-**Admin Login**
+**Customer Car Schedule Page**
 
 ![Admin Login](https://github.com/user-attachments/assets/039ac5e9-fb5e-4866-ac87-47545ed92f50)
+
+**Customer Dashboard**
+
+![Customer Management](https://github.com/user-attachments/assets/42cd53d0-1b00-472f-9603-8b722a558d9c)
 
 **Customer Booking Pending**
 
@@ -67,17 +71,10 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 
 ![Orders Overview](https://github.com/user-attachments/assets/d6c4fe37-dabf-4907-b02f-38767c2c4415)
 
-**Rental Cart**
 
-![Shopping Cart](https://github.com/user-attachments/assets/57e0e789-1c97-4b1f-a570-f6817982fff1)
 
-**Booking Confirmation**
 
-![Order Confirmation](https://github.com/user-attachments/assets/35d6049f-7355-4ea9-8489-6bd02200125e)
 
-**Booking History**
-
-![Order History](https://github.com/user-attachments/assets/8a582f48-cad1-44d8-aad5-e514c159121c)
 
 ### 🛠️ Admin View
 
@@ -85,17 +82,22 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 
 ![Admin Dashboard](https://github.com/user-attachments/assets/ac05f958-67a2-4709-a636-ea8fcfc3c688)
 
-**Car Inventory Management**
+**Booking Management Page**
+
+![Order Confirmation](https://github.com/user-attachments/assets/35d6049f-7355-4ea9-8489-6bd02200125e)
+
+![Order History](https://github.com/user-attachments/assets/8a582f48-cad1-44d8-aad5-e514c159121c)
+
+
+**Admin Update Car details**
 
 ![Product Management](https://github.com/user-attachments/assets/54782bd5-3d73-4234-9f27-6c37364e2cb4)
 
-**Booking Management**
+**Car Details Deleted Successfully**
 
 ![Order Management](https://github.com/user-attachments/assets/e0baa54b-2ba6-4c89-aa39-3e73bec3e49c)
 
-**Customer Management**
 
-![Customer Management](https://github.com/user-attachments/assets/42cd53d0-1b00-472f-9603-8b722a558d9c)
 
 
 

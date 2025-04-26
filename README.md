@@ -40,15 +40,17 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 **Login Page**
 
 ![Product Details](https://github.com/user-attachments/assets/7c4b5ed0-c0ad-4aec-885e-4a68bbbad675)
-**Customer Car Schedule Page**
 
-![Admin Login](https://github.com/user-attachments/assets/039ac5e9-fb5e-4866-ac87-47545ed92f50)
 
 **Customer Dashboard**
 
 ![Customer Management](https://github.com/user-attachments/assets/42cd53d0-1b00-472f-9603-8b722a558d9c)
 
-**Customer Booking Pending**
+**Customer Car Booking Page**
+
+![Admin Login](https://github.com/user-attachments/assets/039ac5e9-fb5e-4866-ac87-47545ed92f50)
+
+**Customer Booking Status**
 
 ![Admin Home](https://github.com/user-attachments/assets/50259d0d-7f68-4194-b5dc-ee69f5c79af3)
 

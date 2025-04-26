@@ -1,7 +1,7 @@
-# 🏍️ E-Commerce Web Application
+# 🏍️ Car Rental Web Application
 
-A complete full-stack E-commerce web application with **Customer** and **Admin** portals.  
-Customers can browse and purchase products, while admins can manage inventory, orders, and customer records.
+A complete full-stack **Car Rental web application** with **Customer** and **Admin** portals.  
+Customers can browse and book cars, while admins can manage fleet inventory, bookings, and customer records.
 
 ---
 
@@ -21,15 +21,15 @@ Customers can browse and purchase products, while admins can manage inventory, o
 ## ✨ Features
 
 ### Customer
-- Browse, filter, and view products
-- Add products to shopping cart
-- Checkout and view order confirmation
-- View order history and details
+- Browse, filter, and view available cars
+- Add cars to rental cart
+- Checkout and confirm bookings
+- View rental history and details
 
 ### Admin
-- Admin dashboard with sales overview
-- Manage products (Add, Edit, Delete)
-- Manage customer orders and status
+- Admin dashboard with booking and revenue overview
+- Manage car inventory (Add, Edit, Delete)
+- Manage customer bookings and status
 - View and manage registered customers
 - Secure admin login and session handling
 
@@ -52,19 +52,19 @@ Customers can browse and purchase products, while admins can manage inventory, o
 
 ![Home Page](https://github.com/user-attachments/assets/7fa401dc-85af-424a-a280-c9c4fd1445f3)
 
-**Product Details Page**
+**Car Details Page**
 
 ![Product Details](https://github.com/user-attachments/assets/7c4b5ed0-c0ad-4aec-885e-4a68bbbad675)
 
-**Shopping Cart**
+**Rental Cart**
 
 ![Shopping Cart](https://github.com/user-attachments/assets/57e0e789-1c97-4b1f-a570-f6817982fff1)
 
-**Order Confirmation**
+**Booking Confirmation**
 
 ![Order Confirmation](https://github.com/user-attachments/assets/35d6049f-7355-4ea9-8489-6bd02200125e)
 
-**Order History**
+**Booking History**
 
 ![Order History](https://github.com/user-attachments/assets/8a582f48-cad1-44d8-aad5-e514c159121c)
 
@@ -74,11 +74,11 @@ Customers can browse and purchase products, while admins can manage inventory, o
 
 ![Admin Dashboard](https://github.com/user-attachments/assets/ac05f958-67a2-4709-a636-ea8fcfc3c688)
 
-**Product Management**
+**Car Inventory Management**
 
 ![Product Management](https://github.com/user-attachments/assets/54782bd5-3d73-4234-9f27-6c37364e2cb4)
 
-**Order Management**
+**Booking Management**
 
 ![Order Management](https://github.com/user-attachments/assets/e0baa54b-2ba6-4c89-aa39-3e73bec3e49c)
 
@@ -98,11 +98,11 @@ Customers can browse and purchase products, while admins can manage inventory, o
 
 ![Sales Analytics](https://github.com/user-attachments/assets/bcc86a3c-9068-49ed-bf7f-e98832551e03)
 
-**Orders Overview**
+**Bookings Overview**
 
 ![Orders Overview](https://github.com/user-attachments/assets/d6c4fe37-dabf-4907-b02f-38767c2c4415)
 
-**Sales Chart**
+**Revenue Chart**
 
 ![Sales Chart](https://github.com/user-attachments/assets/55190354-06c2-4c46-b75a-897ebaa4069f)
 
@@ -136,8 +136,8 @@ Customers can browse and purchase products, while admins can manage inventory, o
 
 ## 🚀 Future Enhancements
 - Add Wishlist/Favorites functionality
-- Implement Coupon Codes and Discounts
-- Real-time order tracking
+- Implement Discount Coupons
+- Real-time booking updates
 - Multi-role authorization (Admin, Manager, Staff)
 - Integrate Stripe/PayPal Payment Gateway
 

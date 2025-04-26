@@ -48,13 +48,24 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 
 ### 🛍️ Customer View
 
-**Home Page**
+**SIgnUp Page**
 
 ![Home Page](https://github.com/user-attachments/assets/7fa401dc-85af-424a-a280-c9c4fd1445f3)
 
-**Car Details Page**
+**Login Page**
 
 ![Product Details](https://github.com/user-attachments/assets/7c4b5ed0-c0ad-4aec-885e-4a68bbbad675)
+**Admin Login**
+
+![Admin Login](https://github.com/user-attachments/assets/039ac5e9-fb5e-4866-ac87-47545ed92f50)
+
+**Customer Booking Pending**
+
+![Admin Home](https://github.com/user-attachments/assets/50259d0d-7f68-4194-b5dc-ee69f5c79af3)
+
+**Customer Bookings Overview**
+
+![Orders Overview](https://github.com/user-attachments/assets/d6c4fe37-dabf-4907-b02f-38767c2c4415)
 
 **Rental Cart**
 
@@ -86,21 +97,7 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 
 ![Customer Management](https://github.com/user-attachments/assets/42cd53d0-1b00-472f-9603-8b722a558d9c)
 
-**Admin Login**
 
-![Admin Login](https://github.com/user-attachments/assets/039ac5e9-fb5e-4866-ac87-47545ed92f50)
-
-**Admin Home**
-
-![Admin Home](https://github.com/user-attachments/assets/50259d0d-7f68-4194-b5dc-ee69f5c79af3)
-
-**Sales Analytics**
-
-![Sales Analytics](https://github.com/user-attachments/assets/bcc86a3c-9068-49ed-bf7f-e98832551e03)
-
-**Bookings Overview**
-
-![Orders Overview](https://github.com/user-attachments/assets/d6c4fe37-dabf-4907-b02f-38767c2c4415)
 
 **MySQL DataBase View**
 

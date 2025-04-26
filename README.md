@@ -102,7 +102,7 @@ Customers can browse and book cars, while admins can manage fleet inventory, boo
 
 ![Orders Overview](https://github.com/user-attachments/assets/d6c4fe37-dabf-4907-b02f-38767c2c4415)
 
-**Revenue Chart**
+**MySQL DataBase View**
 
 ![Sales Chart](https://github.com/user-attachments/assets/55190354-06c2-4c46-b75a-897ebaa4069f)
 
